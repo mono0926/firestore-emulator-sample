@@ -31,8 +31,8 @@ class ViewController: UIViewController {
 //                "snap: nil"
                 print("snap: \(snap?.data())")
 //                error: Optional(Error Domain=FIRFirestoreErrorDomain Code=7 "
-//                false for 'get' @ L65" UserInfo={NSLocalizedDescription=
-//                false for 'get' @ L65})
+//                false for 'get' @ L5" UserInfo={NSLocalizedDescription=
+//                false for 'get' @ L5})
                 print("error: \(error)")
             }
         }
